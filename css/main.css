@@ -22,3 +22,11 @@ nav a:hover{
 	margin: 10px;
 	padding: 5px !important;
 }
+
+.brand-img{
+	max-height: 100%;
+}
+
+.navbar-brand{
+	padding: 0;
+}

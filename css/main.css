@@ -51,6 +51,11 @@ margin-top: 53px;
 	top:0;
 }
 .jumbotron-content{
+	height: 100%;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	justify-content: center;
 	padding-left: 5vw;
 	padding-right: 5vw;
 }

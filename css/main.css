@@ -10,9 +10,11 @@ nav a{
 	color: #FFFFFF;
 }
 nav a:hover{
-	color: #FFFFFF;
+	color: #000000;
 }
-
+.navbar{
+	margin-bottom: 1px;
+}
 
 .list-button{
 	border-style: solid;
@@ -32,5 +34,24 @@ nav a:hover{
 }
 
 #intro{
+	width: 100vw;
+	display: flex;
+	flex-flow: column;
 
+}
+.jumbotron-overlay{
+	background-color: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	display: flex;
+	position: absolute;
+}
+.jumbotron-img{
+	width: 100vw;
+	height: 100vh;
+	left: 0;
+	top: 0;
+	margin-top: 0px;
+}
+
+.jumbotron-header{
 }

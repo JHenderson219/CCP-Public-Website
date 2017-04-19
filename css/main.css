@@ -86,3 +86,15 @@ margin-top: 53px;
 .services-container{
 	width: 80%;
 }
+
+.services-overlay{
+	background-color: rgba(0, 0, 0, 0.7);
+	height: 100%;
+	width: 100%;
+	top:0;
+}
+
+.services-content p{
+	color: #ffffff;
+	font-size: 1.5em;
+}

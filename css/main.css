@@ -79,12 +79,13 @@ margin-top: 53px;
 	margin:0px;
 }
 #services{
-	color:#ffffff;
+	color: #FFFFFF;
 	background-color: #05013E;
 }
 
 .services-container{
 	width: 80%;
+	min-height: 100vh;
 }
 
 .services-overlay{
@@ -95,6 +96,15 @@ margin-top: 53px;
 }
 
 .services-content p{
-	color: #ffffff;
+	color: #FFFFFF;
 	font-size: 1.5em;
+}
+
+#portfolio{
+	background-color: #015187;
+	color: #FFFFFF;
+}
+
+.portfolio-container{
+	min-height: 100vh;
 }
